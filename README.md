@@ -1,3 +1,2 @@
-Krishu_Store_PowerBI_Dashboard
-Created an interactive dashboard to visualize sales performance, track KPIs, and generate insights using Power BI with data cleaning and transformation.
-
+Power BI Sales Dashboard
+An interactive data visualization project that analyzes sales performance using key metrics such as revenue, profit, quantity sold, and regional trends. Features dynamic dashboards with filters and KPIs, along with data cleaning and transformation to deliver clear business insights.
